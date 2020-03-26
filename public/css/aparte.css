@@ -1,0 +1,22 @@
+.martop{
+margin-top: 20px !important;
+}
+
+.imgservice{
+width: 100%;
+}
+.bgray{
+    background-color: rgb(238, 238, 238);
+}
+.btns{
+    color: white !important;
+    background-color: gray !important;
+}
+.btns:hover{
+    color: black !important;
+    background-color: white !important;
+}
+
+.qsomos{
+    width: 50% !important;
+}
