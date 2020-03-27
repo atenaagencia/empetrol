@@ -52,15 +52,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="/">Home</a></li>
 							<li><a href="/servicos">Serviços</a></li>
-							<li><a href="/galeria">Gallery</a></li>
-							<li class="dropdown">
+							<li><a href="/galeria">Galeria</a></li>
+							{{-- <li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
 									<li><a href="icons.html">Icons</a></li>
 									<li><a href="typography.html">Typography</a></li>
 								</ul>
-							</li>
-							<li><a href="#afooter">Contact</a></li>
+							</li> --}}
+							<li><a href="#afooter">Contato</a></li>
 						</ul>
 						
 					</nav>
@@ -79,7 +79,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- footer -->
 	<div class="footer-w3-agile">
 		<div class="container">
-			<h2>Contact Us</h2>
+			<h2>Fale Conosco</h2>
 			<p class="w3ls_head_para w3ls_head_para2">Lorem ipsum dolor amet sit Donec semper rutrum  </p>
 		</div>
 	</div>
@@ -91,12 +91,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="w3ls-cont">
 					<div class="address">	
 						<i class="glyphicon glyphicon-globe"></i>
-						<p class="p3">6th Lorem Street</p>
-						<p class="p3">Chicago, USA</p>
+						<p class="p3">Rua Valério Pereiro,nº 127, primeiro andar, Centro</p>
+						<p class="p3">Petrolina, Pernambuco</p>
+						<p class="p3">56.300-300</p>
 					</div>
 					<div class="phone">
 						<i class="glyphicon glyphicon-phone-alt"></i>
-						<p class="p4">+00 1010101010</p>
+						<p class="p4">87-38612772</p>
 					</div>
 					<div class="email-info">
 						<i class="glyphicon glyphicon-envelope"></i>
@@ -111,11 +112,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 			</div>
 			<div class="col-md-8 map-w3-agileits">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d190256.09869591036!2d-87.87223906433493!3d41.83364794910388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C+IL%2C+USA!5e0!3m2!1sen!2sin!4v1477387827354"  allowfullscreen></iframe>
+				<iframe src=https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3936.2781528359906!2d-40.500661785210404!3d-9.396968893266177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x77370420c12564d%3A0x13a531264abf3e93!2sR.%20Val%C3%A9rio%20Pereira%2C%20127%20-%20Centro%2C%20Petrolina%20-%20PE%2C%2056304-060!5e0!3m2!1spt-BR!2sbr!4v1585340593296!5m2!1spt-BR!2sbr"  allowfullscreen></iframe>
 			</div>
 			<div class="clearfix"></div>
 			<div class="copyright-agileinfo">
-				<p>© 2017 Corporative. All Rights Reserved | Design by <a href="http://w3layouts.com" target="_blank">W3layouts</a></p>
+				<p>©2020 Corportaivo. Todos os Direitos Reservados por <a href="http://atenaagencia.com/" target="_blank">Atena</a></p>
 			</div>
 		</div>
 	</div>
