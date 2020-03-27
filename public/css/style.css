@@ -391,7 +391,7 @@ ul.dropdown-menu {
 /*-- services --*/
 
 .w3ls_head_para1 {
-    text-align: center;
+    text-align: justify;
     font-size: 15px;
     color: #424f57;
     line-height: 28px;
@@ -519,7 +519,7 @@ p.w3ls_head_para.w3ls_head_para2 {
     color: #15afcb;
     text-transform: uppercase;
     letter-spacing: 1px;
-    text-align: center;
+    text-align: center !important;
 }
 
 /*-- //services --*/
