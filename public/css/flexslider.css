@@ -53,7 +53,7 @@ html[xmlns] .slides {display: block;}
 /* Control Nav */
 .flex-control-nav {width:100%;position: absolute;bottom: -120px;text-align: center;}
 .flex-control-nav li {margin: 0 3px; display:inline-block; zoom: 1; *display: inline;padding:0.2em;}
-.flex-control-paging li a {width: 15px; height: 15px; display:inline-block;  background:#ffc107;cursor: pointer; text-indent: -9999px; box-shadow: inset 0 0 3px rgba(0,0,0,0.3);}
+.flex-control-paging li a {width: 15px; height: 15px; display:inline-block;  background:rgb(17,103,133);cursor: pointer; text-indent: -9999px; box-shadow: inset 0 0 3px rgba(0,0,0,0.3);}
 .flex-control-paging li a:hover { background: #ffffff; }
 .flex-control-paging li a.flex-active { background:#ffffff; cursor: default; }
 
