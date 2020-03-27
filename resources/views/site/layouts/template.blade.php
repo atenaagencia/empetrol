@@ -52,7 +52,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="/">Home</a></li>
 							<li><a href="/servicos">Serviços</a></li>
-							<li><a href="gallery.html">Gallery</a></li>
+							<li><a href="/galeria">Gallery</a></li>
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
 								<ul class="dropdown-menu agile_short_dropdown">
@@ -60,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<li><a href="typography.html">Typography</a></li>
 								</ul>
 							</li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="#afooter">Contact</a></li>
 						</ul>
 						
 					</nav>
@@ -85,7 +85,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- //footer -->
 <!-- foot-agileits -->
-	<div class="foot-agileits-w3layouts">
+	<div class="foot-agileits-w3layouts" id="afooter">
 		<div class="container">
 			<div class="col-md-4 contact-info">
 				<div class="w3ls-cont">
