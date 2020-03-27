@@ -16,3 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('site.pages.index');
 });
+
+Route::get('/servicos', function () {
+    return view('site.pages.servicos');
+});
