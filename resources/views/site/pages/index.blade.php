@@ -44,13 +44,13 @@
 				</div>
 				<div class="clearfix"> </div>
 			</div>
-		</div>
-	</div> --}}
+		{{-- </div> --}}
+	</div> 
 <!-- //services -->
 <!-- branch -->
 	<div class="branch-wthree">
 		<div class="container text-center">
-			<h3>Nossos Rámos:</h3>
+			<h3>Área de Atuação:</h3>
 			<div class="col-sm-4">
 			<p>CONTÁBIL:Por meio da contabilidade, nossos técnicos prestam assessoria estratégica nos negócios das empresas, traçando análises financeiras que permitem ao empresário tomar decisões seguras;</p>
 		</div>
