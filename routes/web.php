@@ -20,3 +20,6 @@ Route::get('/', function () {
 Route::get('/servicos', function () {
     return view('site.pages.servicos');
 });
+Route::get('/galeria', function () {
+    return view('site.pages.galeria');
+});

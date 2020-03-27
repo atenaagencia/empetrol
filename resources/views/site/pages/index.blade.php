@@ -9,10 +9,12 @@
 <!-- services -->
 	<div class="services">
 		<div class="container">
-			<h2 class="w3l_head w3l_head1">What ?</h3>
-			<p class="w3ls_head_para w3ls_head_para2">Lorem ipsum dolor amet sit Donec semper rutrum  </p>
-			<p class="w3ls_head_para w3ls_head_para1">Lorem ipsum dolor amet sit Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit.</p>
-			<div class="w3_agileits_services_grids">
+			<h2 class="w3l_head w3l_head1">Quem Somos</h3>
+			<p class="w3ls_head_para w3ls_head_para2">Todo o trabalho da Empetrol reflete a preocupação em executar sua função apropriada como parte integrante da sociedade. </p>
+			<p class="w3ls_head_para w3ls_head_para1">Organizada e com o objetivo de atender aos seus clientes de forma efetiva, razão de sua existência, a Empetrol procura acompanhar e atualizar-se sempre com as constantes mudanças de legislação que ocorrem no país, buscando integrar-se de forma harmoniosa, assim como os planetas se mantêm juntos em seu movimento ordenado.</p>
+			<p class="w3ls_head_para w3ls_head_para1">A Empetrol acredita com isso estar apresentando uma proposta renovadora que não pretende ser exclusiva nem monopolizadora. Afinal, pensamos que é pela via de pluralidade de opções que se deve construir uma sociedade democrática e aberta.</p>
+			
+			{{-- <div class="w3_agileits_services_grids">
 				<div class="col-md-4 w3_agileits_services_grid">
 					<div class="w3_agileits_services_grid_agile">
 						<div class="w3_agileits_services_grid_1">
@@ -43,22 +45,30 @@
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 <!-- //services -->
 <!-- branch -->
 	<div class="branch-wthree">
-		<div class="container">
-			<h3>Our branches</h3>
-			<p>Lorem ipsum dolor amet sit Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit. Donec semper rutrum ipsum et bibendum. Sed condimentum dolor velit.</p>
-			
+		<div class="container text-center">
+			<h3>Nossos Rámos:</h3>
+			<div class="col-sm-4">
+			<p>CONTÁBIL:Por meio da contabilidade, nossos técnicos prestam assessoria estratégica nos negócios das empresas, traçando análises financeiras que permitem ao empresário tomar decisões seguras;</p>
 		</div>
+			<div class="col-sm-4">
+			<p>FISCAL:A carga tributária tem grande relevância nos negócios das empresas, por isso, notificamos de todas as informações e fornecemos todos os direcionamentos fiscais dos nossos clientes;</p>
+		</div>
+			<div class="col-sm-4">
+			<p>TRABALHISTA:Por meio desta área, imprescindível para uma empresa, executamos toda a rotina do departamento pessoal da instituição;</p>
+			</div>
+		</div>
+		<a href="/servicos"><button>Ver Mais</button></a>
 	</div>
 <!-- //branch -->
 <!-- team -->
 	<div class="team-agileits">
 		<div class="container">
-		<h3 class="w3l_head w3l_head1">Team</h3>
-			<p class="w3ls_head_para w3ls_head_para2">Lorem ipsum dolor amet sit Donec semper rutrum  </p>
+		<h3 class="w3l_head w3l_head1">Equipe</h3>
+			<p class="w3ls_head_para w3ls_head_para2">Nossa equipe é contituida por profissionáis capacitados</p>
 			<div class="team-grids">
 				<div class="col-md-4 team-grid">
 					<div class="pic">
