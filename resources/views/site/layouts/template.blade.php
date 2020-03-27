@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Corporative a Corporate Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Empetrol</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -18,6 +18,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/empetrol.css" rel="stylesheet" type="text/css" media="all" />
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 
 <!-- js -->
@@ -41,11 +42,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html">Empetrol</a></h1>
+					{{-- <a class="navbar-brand" href="index.html"> --}}
+				<img src="/images/logo.png" alt="" href="index.html" class=" logo">
+					{{-- </a> --}}
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
-					<nav class="cl-effect-13" id="cl-effect-13">
+					<nav class="cl-effect-13 fontenav" id="cl-effect-13">
 						<ul class="nav navbar-nav">
 							<li class="active"><a href="index.html">Home</a></li>
 							<li><a href="services.html">Serviços</a></li>

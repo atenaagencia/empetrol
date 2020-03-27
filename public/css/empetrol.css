@@ -1,0 +1,13 @@
+.logo{
+    width: 200px;
+    max-width: 100%;
+}
+.fonte-a{
+    color: rgba(27, 126, 121, 0.651) !important;
+}
+.fontenav a{
+    color: rgb(17, 102, 133) !important;
+}
+.fontenav a:hover{
+    color: rgb(27, 126, 121) !important;
+}
