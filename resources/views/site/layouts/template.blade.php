@@ -100,7 +100,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-12" style="padding-top:15px;">
 				<h2 class="w3l_head w3l_head1 text-justify">CONTATO</h2>
 				</div>
-				<div class="col-md-4 w3ls-cont">
+				<div class="col-md-4 ">
 					<div class="address">
 						<i class="glyphicon glyphicon-globe"></i>
 						<p class="p3">Rua Valério Pereiro,nº 127, primeiro andar, Centro</p>
