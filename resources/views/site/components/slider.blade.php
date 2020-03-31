@@ -3,7 +3,7 @@
 		<section class="slider">
 					<div class="flexslider">
 						<ul class="slides">
-							<li>
+							<li style="">
 							<div class="w3l-banner-info">
 									<h3>Lorem ipsum <br>Donec semper rutrum<br></h3>
 									<div class="agileinfo-news-button">

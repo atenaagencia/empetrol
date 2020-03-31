@@ -77,12 +77,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <!-- //testimonial -->
 <!-- footer -->
-	<div class="footer-w3-agile">
+	{{-- <div class="footer-w3-agile">
 		<div class="container">
 			<h2>Fale Conosco</h2>
 			<p class="w3ls_head_para w3ls_head_para2">Lorem ipsum dolor amet sit Donec semper rutrum  </p>
 		</div>
-	</div>
+	</div> --}}
 <!-- //footer -->
 <!-- foot-agileits -->
 	<div class="foot-agileits-w3layouts" id="afooter">
