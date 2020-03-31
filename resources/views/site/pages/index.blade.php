@@ -8,7 +8,7 @@
 @section('conteudo')
 	<div class="services">
 		<div class="container">
-			<h2 class="w3l_head w3l_head1 text-justify">Quem Somos</h3>
+			<h2 class="w3l_head w3l_head1 text-justify">Quem Somos</h2>
 			<p class="w3ls_head_para w3ls_head_para2 text-justify">Todo o trabalho da Empetrol reflete a preocupação em executar sua função apropriada como parte integrante da sociedade. </p>
 			<p class="w3ls_head_para w3ls_head_para1 text-justify">Organizada e com o objetivo de atender aos seus clientes de forma efetiva, razão de sua existência, a Empetrol procura acompanhar e atualizar-se sempre com as constantes mudanças de legislação que ocorrem no país, buscando integrar-se de forma harmoniosa, assim como os planetas se mantêm juntos em seu movimento ordenado.</p>
 			<p class="w3ls_head_para w3ls_head_para1">Empetrol acredita com isso estar apresentando uma proposta renovadora que não pretende ser exclusiva nem monopolizadora. Afinal, pensamos que é pela via de pluralidade de opções que se deve construir uma sociedade democrática e aberta.</p>

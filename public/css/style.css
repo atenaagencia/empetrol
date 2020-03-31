@@ -1277,7 +1277,7 @@ i.fa.fa-quote-right {
     position: relative;
 }
 
-.w3ls-cont:before {
+/* .w3ls-cont:before {
     content: '';
     position: absolute;
     top: 0px;
@@ -1288,9 +1288,9 @@ i.fa.fa-quote-right {
     border-right: 349px solid transparent;
     border-left: 0px solid transparent;
     transform: rotate(-180deg);
-}
+} */
 
-.w3ls-cont:after {
+/* .w3ls-cont:after {
     content: '';
     position: absolute;
     bottom: 0px;
@@ -1301,7 +1301,7 @@ i.fa.fa-quote-right {
     border-right: 349px solid transparent;
     border-left: 0px solid transparent;
     transform: rotate(0deg);
-}
+} */
 
 .phone {
     margin: 1em 0;
