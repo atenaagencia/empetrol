@@ -159,7 +159,7 @@
 	<div class="testimonial agileinfo">
 		<div class="container">
 			<div class="about-heading testimonial-heading">
-				<h3>Testimonial</h3>
+				<h3>Depoimentos</h3>
 			</div>
 			<div class="testimonial-grid">
 					<div class="slider">
