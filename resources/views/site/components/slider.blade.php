@@ -5,33 +5,33 @@
 						<ul class="slides">
 							<li style="">
 							<div class="w3l-banner-info">
-									<h3>Lorem ipsum <br>Donec semper rutrum<br></h3>
+									<h3>Empresa de Contabilidade com experiência de mais de 50 anos. Petrolina/PE</h3>
 									<div class="agileinfo-news-button">
-										<a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a>
+										{{-- <a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a> --}}
 									</div>
 								</div>
 							<li>
 								
 								<div class="w3l-banner-info">
-									<h3>condimentum<br>condimentum dolor velit<br></h3>
+									<h3>Confiança e Qualidade</h3>
 									<div class="agileinfo-news-button">
-										<a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a>
+										{{-- <a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a> --}}
 									</div>
 								</div>							
 							</li>
 							<li>
 								<div class="w3l-banner-info">
-									<h3>Semper<br>Ipsum et bibendum<br></h3>
+									<h3>Somos a escolha certa</h3>
 									<div class="agileinfo-news-button">
-										<a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a>
+										{{-- <a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a> --}}
 									</div>
 								</div>							
 							</li>
 							<li>
 								<div class="w3l-banner-info">
-									<h3>Ipsum dolor <br>Donec semper rutrum<br></h3>
+									<h3>Melhor controle financero para seu negócio</h3>
 									<div class="agileinfo-news-button">
-										<a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a>
+										{{-- <a href="#" class="hvr-shutter-in-horizontal" data-toggle="modal" data-target="#myModal"> Read More</a> --}}
 									</div>
 								</div>						
 							</li>

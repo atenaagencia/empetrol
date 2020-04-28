@@ -113,13 +113,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="email-info">
 						<i class="glyphicon glyphicon-envelope"></i>
-						<p class="p4"><a href="mailto:email2@example.com">email2@example.com</a></p>
+						<p class="p4"><a href="mailto:email2@example.com">empetrolescritorio@outlook.com</a></p>
 					</div>
 					<ul class="social-icons1">
-						<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-						<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="http://www.facebook.com/empetrolcontabilidadepe" target="_blank"><i class="fa fa-facebook" ></i></a></li>
+						<li><a href="http://www.instagram.com/empetrolcontabilidadepe" target="_blank"><i class="fa fa-instagram"></i></a></li>
 					</ul>
 				</div>
 				<div class="col-md-8 map-w3-agileits" style="padding:30px;">

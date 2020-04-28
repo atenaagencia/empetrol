@@ -72,7 +72,7 @@
 				<div class="col-md-4 team-grid">
 					<div class="pic">
 						<div class="stack twisted">	
-							<img src="images/4.jpg" alt=" " class="img-responsive" />
+							<img src="images/snull.png" alt=" " class="img-responsive" />
 						</div>
 						{{-- <div class="pic-caption top-to-bottom">
 							<h5 class="pic-title">Voluptate</h5>
@@ -99,7 +99,7 @@
 				<div class="col-md-4 team-grid">
 					<div class="pic">
 						<div class="stack twisted">	
-							<img src="images/5.jpg" alt=" " class="img-responsive" />
+							<img src="images/snull.png"snull.png" " class="img-responsive" />
 						</div>
 						{{-- <div class="pic-caption top-to-bottom">
 							<h5 class="pic-title">eumiure</h5>
@@ -126,7 +126,7 @@
 				<div class="col-md-4 team-grid">
 					<div class="pic">
 						<div class="stack twisted">	
-							<img src="images/7.jpg" alt=" " class="img-responsive" />
+							<img src="images/snull.png" alt=" " class="img-responsive" />
 						</div>
 						{{-- <div class="pic-caption top-to-bottom">
 							<h5 class="pic-title">reprehquin</h5>
